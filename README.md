@@ -4,7 +4,7 @@ A Python Tkinter-based desktop application that fetches and displays the latest 
 
 ## 📸 Screenshot
 
-![GUI News App](live_news_app.png)
+![GUI News App](live_news_app.jpg)
 
 ## 🚀 Features
 
